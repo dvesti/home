@@ -3,7 +3,7 @@ author = "Laurent Michel"
 categories = ["Hugo"]
 date = "2017-12-17"
 description = "Setting up a Hugo site"
-featured = "NewEnglandFall.jpg"
+featured = "home.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
@@ -14,4 +14,5 @@ draft = "false"
 
 ## Introduction
 
-This is the first post for the site. 
+This is the first post for the site. Written by the two of us.
+

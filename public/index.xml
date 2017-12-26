@@ -6,10 +6,19 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started with Arduino</title>
+      <link>/blog/startingwitharduino/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/startingwitharduino/</guid>
+      <description>My Adventure in Arduino land This is a paragraph of text about what I did with this board&amp;hellip;.</description>
+    </item>
     
     <item>
       <title>Getting Started with Hugo Blog</title>
@@ -17,7 +26,7 @@
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/blog/firstpost/</guid>
-      <description>Introduction This is the first post for the site.</description>
+      <description>Introduction This is the first post for the site. Written by the two of us.</description>
     </item>
     
     <item>
